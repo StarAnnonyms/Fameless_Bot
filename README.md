@@ -56,7 +56,7 @@ You can use it without any hesitation
      
   🦋 First create a Heroku account  [Click Now](https://signup.heroku.com/) Select Node js as your programming language
    <br>
-  🦋 After Scan Garfield QR for Whatsapp Multi device beta (24 Hour Activation)
+  🦋 After Scan FAMELESS QR for Whatsapp Multi device beta (24 Hour Activation)
    <br>
    🦋 After fork this repo Clicking [Here](https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8/fork) and replace your session.js on it
      <br>
@@ -125,11 +125,11 @@ Also I am Student
    <b>This has been updated to the latest 2022 npm module and Latest Whatsapp Button Version. There are 120+ plugins. Deploying is quick and easy. Download speeds and upload speeds are very fast.The speed of response has increased. Fixed some bugs. Updated daily baileys 2022 Updated</b>    
   <br>
    <br>
-  <center><img src="/Cloud/ezgif-4-e173d31b67.gif"></center>
-  <br>
-  
+
+
+
     
-    
+
   <h1> Telegram 💡</h1>
 Join our Telegram helping group <a href="https://t.me/xnodesbot">Join Now</a>
   <h1>Watch Video 📽️</h1>
@@ -138,7 +138,7 @@ Join our Telegram helping group <a href="https://t.me/xnodesbot">Join Now</a>
    
   <br>
     <h1>Developer 🦋</h1>
-    <b><table><tr><th>Hamza</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://telegra.ph/file/701702e9a949b18b6c59d.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>Hamza</th></tr>
 
 
 
