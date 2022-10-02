@@ -1,4 +1,4 @@
-# 𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т LATEST v8.5
+# FAMELESS 𝖡𝖮Т LATEST v8.5
 # 🍂 Update Node modules
 <img src="/Cloud/PicsArt_22-04-17_16-25-53-440.png">
 
@@ -30,10 +30,10 @@
 
   <br>
  
-<b><h1>What is Garfield Whatsapp Bot 🐼</h1></b>
-<b>Garfield is a WhatsApp user bot by [NOIZE PROJECTS](https://github.com/Zenoixnoize) 
+<b><h1>What is Fameless Whatsapp Bot 🐼</h1></b>
+<b>Fameless is a WhatsApp user bot by [NOIZE PROJECTS](https://github.com/Zenoixnoize) 
 and powered by [X-nodes server](https://www.npmjs.com/package/aurora-npm).
-Garfield can make your work easier and do whatever you want. You can easily install this. This is updated daily. Once you install it, it will continue to be an indispensable tool for you
+Fameless Bot can make your work easier and do whatever you want. You can easily install this. This is updated daily. Once you install it, it will continue to be an indispensable tool for you
 Contains over 200+ plugins. This will give you a better experience on WhatsApp. You can download songs and videos fast. This is updated daily so more features are always added
 .This allows you to have fun with friends<b>
  
@@ -88,7 +88,7 @@ This can be used to make your work easier and even fun. Currently this is v1.0
    <br>
      <br>
      <br>
-     <h1>𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т</h1>
+     <h1>FAMELESS BOT</h1>
      <br>
   <center><img src="/Cloud/logo.png">
     <br>
@@ -110,18 +110,18 @@ Be sure to use a (.)dot at the beginning of the command  </b>
   <h1><b>Developer Notice 💌</h1></b>
 <b> - Hi 🥰 I m
       <br>
-ＮＯＩＺ Ξ
+Hamza
       <br>
-I am 16 years old
+I am 19 years old
       <br>
-developer... From Sri Lanka 🇱🇰
+developer... From Pakistan 🇵🇰
       <br>
 I am a Learning. Not more..
       <br>
 Also I am Student 
     </b></b>
 
-   <h1>𝗩8.4 𝗡𝗲𝘄</h1>
+   <h1>𝗩1.0 𝗡𝗲𝘄</h1>
    <b>This has been updated to the latest 2022 npm module and Latest Whatsapp Button Version. There are 120+ plugins. Deploying is quick and easy. Download speeds and upload speeds are very fast.The speed of response has increased. Fixed some bugs. Updated daily baileys 2022 Updated</b>    
   <br>
    <br>
@@ -138,7 +138,7 @@ Join our Telegram helping group <a href="https://t.me/xnodesbot">Join Now</a>
    
   <br>
     <h1>Developer 🦋</h1>
-    <b><table><tr><th>Ｚ Ξ ＮＯＩ</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://telegra.ph/file/701702e9a949b18b6c59d.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>Hamza</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://telegra.ph/file/701702e9a949b18b6c59d.jpg" width="180"</td></tr></b>
 
 
 
